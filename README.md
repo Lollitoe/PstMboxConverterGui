@@ -1,3 +1,4 @@
+# If you are not using the Released files:=>
 # PST to mbox Converter
 
 A Python command-line tool for converting Outlook PST files to mbox format for webmail import.
